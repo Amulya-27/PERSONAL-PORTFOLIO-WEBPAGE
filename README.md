@@ -30,5 +30,11 @@ A good personal portfolio is responsive, meaning it adapts well to different scr
 
 In a competitive digital age, a well-crafted portfolio website is more than just a necessity — it’s a dynamic, interactive representation of one’s professional identity.
 
+##OUTPUT
+
+<img width="895" alt="Image" src="https://github.com/user-attachments/assets/376f700b-7a81-4f66-b12a-63d20caba202" />
+
+
+
 
 
