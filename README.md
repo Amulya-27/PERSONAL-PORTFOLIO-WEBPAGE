@@ -29,3 +29,9 @@ Finally, the Contact section provides a way for viewers to reach out. This typic
 A good personal portfolio is responsive, meaning it adapts well to different screen sizes and devices. It also reflects the individual's personality and branding through consistent use of color, typography, and content tone.
 
 In a competitive digital age, a well-crafted portfolio website is more than just a necessity — it’s a dynamic, interactive representation of one’s professional identity.
+
+##OUTPUT
+
+<img width="917" alt="Image" src="https://github.com/user-attachments/assets/d003f134-cb29-49d3-8000-795af3374ffc" />
+
+<img width="917" alt="Image" src="https://github.com/user-attachments/assets/d003f134-cb29-49d3-8000-795af3374ffc" />
