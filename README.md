@@ -32,7 +32,7 @@ In a competitive digital age, a well-crafted portfolio website is more than just
 
 ##OUTPUT
 
-
+<img width="895" alt="Image" src="https://github.com/user-attachments/assets/324a1445-a0e9-407d-b06f-792dd4fbb94a" />
 
 <img width="917" alt="Image" src="https://github.com/user-attachments/assets/13a15ece-61e8-42eb-a6e6-6c68833f5f21" />
 
