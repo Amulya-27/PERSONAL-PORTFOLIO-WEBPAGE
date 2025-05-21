@@ -34,3 +34,5 @@ In a competitive digital age, a well-crafted portfolio website is more than just
 
 <img width="895" alt="Image" src="https://github.com/user-attachments/assets/0e9d6280-54a1-400e-bbf2-c7683f5643d6" />
 
+<img width="917" alt="Image" src="https://github.com/user-attachments/assets/591b3750-a963-4da1-841f-59c4d68af7c7" />
+
